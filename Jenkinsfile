@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Hello Prashant! Jenkins is working.'
+                echo 'Build running successfully'
             }
         }
     }
